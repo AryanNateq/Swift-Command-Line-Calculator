@@ -1,5 +1,3 @@
-![build status](https://travis-ci.org/uts-ios-dev/calc.svg?branch=master)
-
 ## Objectives
 
 The purpose of this project is to demonstrate competence in the following skills:
